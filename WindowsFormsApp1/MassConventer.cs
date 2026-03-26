@@ -10,7 +10,7 @@ namespace WindowsFormsApp1
     {
         public double Convert(double value)
         {
-            return Math.Round(value * 0.453592, 3);
+            return Math.Round(value * 0.453592, 3);//komentar
         }
     }
 }
